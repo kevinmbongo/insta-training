@@ -1,7 +1,11 @@
 <template>
   <header>
     <!-- ***top-nav Oney *** -->
+
     <nav id="oney-nav">
+      <div class="sup-mobil">
+        <img class="picto" src="https://www.fine-s.fr/9959/test.jpg" alt="" />
+      </div>
       <div id="logo-oney">
         <img
           id="logo-oney-img"
@@ -10,7 +14,11 @@
         />
       </div>
 
-      <div id="top-nav-menu">
+      <div class="sup-mobil">
+        <img class="picto" src="https://www.fine-s.fr/9959/test.jpg" alt="" />
+      </div>
+
+      <div id="top-nav-menu" class="oney-nav-mobil">
         <div>
           <a href="">Paiments </a>
           <img class="icon" src="https://www.fine-s.fr/9959/test.jpg" alt="" />
