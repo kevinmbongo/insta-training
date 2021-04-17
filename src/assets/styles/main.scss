@@ -51,6 +51,7 @@ img{
 .icon {
   width: 15px;
   height: 15px;
+  margin: 0 10px;
 
 }
 
@@ -210,18 +211,24 @@ img{
   margin-bottom: 50px;
 }
 
+#div-grey-line{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 .grey-line{
   background: #707070;
-  width: 1200px;
+  width: 1300px;
   height: 1px;
-
-
 }
+
 #div-button-app{
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .button-AppStore-google{
   width: 170px;
   height: 50px;
@@ -231,6 +238,9 @@ img{
   display: flex;
   align-items: center;
   padding: 30px 20px;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 40px;
 }
 
 .div-space-between{
@@ -242,8 +252,9 @@ img{
   align-items: center;
   justify-content: center;
   border: solid 1px black;
-
+  padding: 5px 10px 5px 5px;
 }
+
 /* *** bottom band ***
 ************************************ */
 

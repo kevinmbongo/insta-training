@@ -112,7 +112,7 @@
   <!-- *** main *** -->
 
   <main>
-    <div class="title">Mention légales</div>
+    <h1 class="title">Mention légales</h1>
     <div>
       <div class="div-space-title"></div>
       <p>Le site internet oney.fr est edité par :</p>
@@ -494,7 +494,9 @@
           </div>
         </div>
 
-        <div class="grey-line"></div>
+        <div id="div-grey-line">
+          <div class="grey-line"></div>
+        </div>
 
         <nav id="nav-téléchargez">
           <div class="bold">Téléchargez l'app Oney</div>
