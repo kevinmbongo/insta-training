@@ -176,5 +176,366 @@
       <div class="paragraph-space"></div>
     </div>
   </main>
-  <footer></footer>
+
+  <!-- *** footer *** -->
+
+  <footer>
+    <nav class="nav-footer">
+      <div id="colored-div">
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="position-div">
+          <div>
+            <p class="bold disp-flex">Qui sommes nous ?</p>
+            <div class="paragraph-space"></div>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Valeurs
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Blog
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Site institutionnel
+            </a>
+            <a class="disp-flex" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Office de recrutement
+            </a>
+          </div>
+        </div>
+
+        <div class="grey-line"></div>
+
+        <nav id="nav-téléchargez">
+          <div class="bold">Téléchargez l'app Oney</div>
+          <div id="div-button-app">
+            <a href="">
+              <img
+                class="button-AppStore-google"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+            </a>
+            <a href="">
+              <img
+                class="button-AppStore-google"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+            </a>
+          </div>
+          <div class="div-space-between"></div>
+          <div class="bold">Carte volée, perdue?</div>
+          <div>
+            <a class="bold" id="opposition-button" href="">
+              <img
+                class="icon"
+                src="https://www.fine-s.fr/9959/test.jpg"
+                alt=""
+              />
+              Faire opposition
+            </a>
+          </div>
+        </nav>
+      </div>
+    </nav>
+
+    <!-- *** bottom band *** -->
+
+    <nav id="bottom-nav">
+      <div>
+        Copyright Oney Bank 2019 - Sécurité - informations légales - FAQ
+      </div>
+    </nav>
+  </footer>
 </template>

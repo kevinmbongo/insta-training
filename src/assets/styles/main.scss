@@ -187,3 +187,79 @@ img{
 .disp-flex{
   display: flex;
 }
+
+/* *** footer ***
+************************************ */
+.nav-footer{
+  display: flex;
+  width: 100%;
+}
+
+#colored-div{
+  display: flex;
+  flex-wrap: wrap;
+  background: #949496;
+  width: 100%;
+}
+
+.position-div {
+  display: flex;
+  width: 25%;
+  justify-content: center;
+  padding: 30px 50px;
+  margin-bottom: 50px;
+}
+
+.grey-line{
+  background: #707070;
+  width: 1200px;
+  height: 1px;
+
+
+}
+#div-button-app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-AppStore-google{
+  width: 170px;
+  height: 50px;
+}
+
+#nav-téléchargez{
+  display: flex;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.div-space-between{
+  width: 200px;
+}
+
+#opposition-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px black;
+
+}
+/* *** bottom band ***
+************************************ */
+
+#bottom-nav{
+  display: flex;
+  flex-wrap: wrap;
+  background: #3b3b40;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+
+
+  div{
+    color: white;
+    padding: 10px;
+
+  }
+}
