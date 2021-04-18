@@ -270,7 +270,7 @@
             </a>
           </div>
         </div>
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
@@ -309,7 +309,7 @@
           </div>
         </div>
 
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
@@ -348,7 +348,7 @@
           </div>
         </div>
 
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
@@ -387,7 +387,7 @@
           </div>
         </div>
 
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
@@ -426,7 +426,7 @@
           </div>
         </div>
 
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
@@ -465,7 +465,7 @@
           </div>
         </div>
 
-        <div class="position-div div-sup-mobil">
+        <div class="position-div">
           <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
