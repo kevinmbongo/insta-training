@@ -36,13 +36,19 @@
 
 body{
   font-family: 'Arial',"sans-serif";
+
 }
 
 main{
   display: flex;
   flex-wrap: wrap;
   margin: 50px 100px;
+
+  @media (max-width: 640px) {
+    margin: 50px 15px;
+  }
 }
+
 
 img{
   margin: 0 5px;
@@ -76,6 +82,14 @@ img{
     display: none;
   }
 }
+
+.sup-md{
+  @media (min-width: 641px) {
+    display: none;
+  }
+}
+
+
 /* ***top-nav Oney ***
 ************************************ */
 #oney-nav{
@@ -92,7 +106,6 @@ img{
 
 #logo-oney{
   padding: 10px;
-
 }
 
 #logo-oney-img{
@@ -208,6 +221,9 @@ img{
   display: flex;
 }
 
+
+
+
 /* *** footer ***
 ************************************ */
 .nav-footer{
@@ -228,6 +244,30 @@ img{
   justify-content: center;
   padding: 30px 50px;
   margin-bottom: 50px;
+
+
+    @media (max-width: 640px) {
+      width: 50%;
+      margin-bottom: 0;
+      padding: 30px 5px 0 15px ;
+      font-size: 13px;
+    }
+  div{
+    @media (max-width: 640px) {
+      width: 100%;
+    }
+  }
+  a{
+    @media (max-width: 640px) {
+      margin: 7px 0;
+    }
+  }
+}
+.div-sup-mobil {
+
+  @media (min-width: 641px) {
+    display: none;
+  }
 }
 
 #div-grey-line{
@@ -246,11 +286,19 @@ img{
   display: flex;
   align-items: center;
   justify-content: center;
+
+  a{
+    @media (max-width: 640px) {
+      margin: 0 15px;
+    }
+  }
+
 }
 
 .button-AppStore-google{
   width: 170px;
   height: 50px;
+
 }
 
 #nav-téléchargez{
@@ -260,10 +308,37 @@ img{
   justify-content: space-between;
   width: 100%;
   margin: 0 40px;
+
+  @media (max-width: 640px) {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
 }
 
 .div-space-between{
   width: 200px;
+}
+
+#mobil-order1{
+  @media (max-width: 640px) {
+   order: -1;
+    text-align: center;
+  }
+}
+
+#mobil-order2{
+  @media (max-width: 640px) {
+    order: -1;
+    margin: 10px 0 50px;
+  }
+}
+
+#mobil-order3{
+  @media (max-width: 640px) {
+    order: 0;
+    margin: 10px 0;
+  }
 }
 
 #opposition-button{
@@ -272,7 +347,13 @@ img{
   justify-content: center;
   border: solid 1px black;
   padding: 5px 10px 5px 5px;
+
+  @media (max-width: 640px) {
+    padding: 10px 15px ;
+  }
+
 }
+
 
 /* *** bottom band ***
 ************************************ */
@@ -291,5 +372,11 @@ img{
     color: white;
     padding: 10px;
 
+    @media (max-width: 640px) {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
   }
 }

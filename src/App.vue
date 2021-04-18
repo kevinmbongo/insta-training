@@ -3,7 +3,7 @@
     <!-- ***top-nav Oney *** -->
 
     <nav id="oney-nav">
-      <div class="sup-mobil">
+      <div class="sup-md">
         <img class="picto" src="https://www.fine-s.fr/9959/test.jpg" alt="" />
       </div>
       <div id="logo-oney">
@@ -14,7 +14,7 @@
         />
       </div>
 
-      <div class="sup-mobil">
+      <div class="sup-md">
         <img class="picto" src="https://www.fine-s.fr/9959/test.jpg" alt="" />
       </div>
 
@@ -153,6 +153,9 @@
         <a class="underline" href="https://www.orias.fr/">www.orias.fr</a>
       </p>
       <div class="paragraph-space"></div>
+
+      <div></div>
+
       <div class="disp-flex">
         <p class="bold">Représentant légal :</p>
         <p class="space-start">Jean-Pierre VIBOUD, Directeur Général</p>
@@ -267,9 +270,8 @@
             </a>
           </div>
         </div>
-
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -307,8 +309,8 @@
           </div>
         </div>
 
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -346,8 +348,8 @@
           </div>
         </div>
 
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -385,8 +387,8 @@
           </div>
         </div>
 
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -424,8 +426,8 @@
           </div>
         </div>
 
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -463,8 +465,8 @@
           </div>
         </div>
 
-        <div class="position-div">
-          <div>
+        <div class="position-div div-sup-mobil">
+          <div class="sup-mobil">
             <p class="bold disp-flex">Qui sommes nous ?</p>
             <div class="paragraph-space"></div>
             <a class="disp-flex" href="">
@@ -507,7 +509,7 @@
         </div>
 
         <nav id="nav-téléchargez">
-          <div class="bold">Téléchargez l'app Oney</div>
+          <div class="bold" id="mobil-order3">Téléchargez l'app Oney</div>
           <div id="div-button-app">
             <a href="">
               <img
@@ -525,11 +527,13 @@
             </a>
           </div>
           <div class="div-space-between"></div>
-          <div class="bold">Carte volée, perdue?</div>
-          <div>
+          <div class="bold" id="mobil-order1">
+            Carte volée, <br class="sup-md" />perdue?
+          </div>
+          <div id="mobil-order2">
             <a class="bold" id="opposition-button" href="">
               <img
-                class="icon"
+                class="icon sup-mobil"
                 src="https://www.fine-s.fr/9959/test.jpg"
                 alt=""
               />
@@ -544,7 +548,8 @@
 
     <nav id="bottom-nav">
       <div>
-        Copyright Oney Bank 2019 - Sécurité - informations légales - FAQ
+        Copyright Oney Bank 2019 - <br class="sup-md" />Sécurité - informations
+        légales - FAQ
       </div>
     </nav>
   </footer>
